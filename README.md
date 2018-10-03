@@ -1,7 +1,7 @@
 Unit Testを書くべき理由
 ===
 
-2018/xx/xx
+2018/10/03
 
 Kobayashi Kazuhiro (kzhrk)
 
